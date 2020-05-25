@@ -2,7 +2,7 @@
 Regular Expressions cheat sheet
 
 
-(regexr.com)[https://regexr.com/]
+[regexr.com](https://regexr.com/)
 
 
 # Regular Expressions
